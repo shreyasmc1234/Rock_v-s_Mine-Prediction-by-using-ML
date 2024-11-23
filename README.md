@@ -2,6 +2,8 @@
 
 A data science project to classify objects as Rock or Mine using the Sonar Dataset by using linear regression model in Python.
 
+![image](https://github.com/shreyasmc1234/Rock_v-s_Mine-Prediction-by-using-ML/blob/main/image.png)
+
 The project involved:
 
 Data Acquisition: Leveraging publicly available datasets from Kaggle.
